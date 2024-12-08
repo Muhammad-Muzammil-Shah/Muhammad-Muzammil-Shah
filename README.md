@@ -1,15 +1,25 @@
-# Syed Muhammad Muzammil's GitHub Portfolio
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm **Syed Muhammad Muzammil**!
+
+<a href="https://www.facebook.com/muzammil.mmuzammilshah" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png"  />
+</a>
+
+<a href="mailto:syedmmuzammil42101@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/syedmuhammadmuzammil077" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
+
+
+<br />
 
 Hi there! 👋 I'm **Syed Muhammad Muzammil**, a passionate **Data Analyst**, **Machine Learning Engineer**, and **Microsoft Certified AI-900** professional. This repository showcases my work, projects, and contributions in AI, machine learning, and data analysis. Feel free to explore my repositories, and don't hesitate to reach out for any collaboration or queries.
 
 ## About Me
 
 I am a **BS Artificial Intelligence** candidate at **Sindh Madrasa-tul-Islam University**, currently blending academic knowledge with practical experience. I specialize in **Natural Language Processing (NLP)**, **Exploratory Data Analysis**, and **Machine Learning**, and I have worked on impactful AI projects at **ITSOLERA** and **Bytewise Limited**.
-
-### Contact Information
-- 📱 Mobile: [03302358711](tel:+923302358711)
-- 📧 Email: [MuhammadMuzmil.Shah@student@ambassadors.com](mailto:MuhammadMuzmil.Shah@student@ambassadors.com)
-- 🌐 LinkedIn: [Syed Muhammad Muzammil](https://www.linkedin.com/in/syedmuhammadmuzammil077)
 
 ### Location
 - 🌍 New Karachi Town, Sindh, Pakistan
@@ -22,7 +32,7 @@ I am passionate about integrating theoretical knowledge with hands-on experience
 
 ## Skills
 
-- **Programming & Technologies:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
+- **Programming & Technologies:** Python, Scikit-learn, Pandas, NumPy
 - **Machine Learning & AI:** Natural Language Processing (NLP), Speech Emotion Recognition, Pneumonia Detection, Image Segmentation, Customer Behavior Profiling
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Visualization, Statistical Modeling
 - **Tools & Platforms:** Google Sheets, Microsoft Azure (AI-900), Jupyter Notebooks, Librosa
@@ -86,3 +96,13 @@ During my internship, I worked on AI and machine learning projects, including:
    Run the following command to clone the project:
    ```bash
    git clone https://github.com/yourusername/repository-name.git
+
+
+### Follow
+- To follow my GitHub, Search by username **`Muhammad-Muzammil-Shah`**.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Muzammil-Shah)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=qasim1020.qasim-hassan)
+
+   
