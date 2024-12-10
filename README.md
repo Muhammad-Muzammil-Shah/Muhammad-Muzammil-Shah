@@ -103,6 +103,7 @@ During my internship, I worked on AI and machine learning projects, including:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Muzammil-Shah)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=qasim1020.qasim-hassan)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Muzammil-Shah.Muhammad-Muzammil-Shah)
+
 
    
