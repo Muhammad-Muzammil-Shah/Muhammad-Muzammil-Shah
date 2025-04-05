@@ -90,13 +90,6 @@ During my internship, I worked on AI and machine learning projects, including:
 **Bachelor of Science (BS), Artificial Intelligence**  
 *February 2022 - February 2026*
 
-## How to Use My Repositories
-
-1. **Clone the repository**  
-   Run the following command to clone the project:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-
 
 ### Follow
 - To follow my GitHub, Search by username **`Muhammad-Muzammil-Shah`**.
