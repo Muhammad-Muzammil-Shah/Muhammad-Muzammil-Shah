@@ -113,8 +113,8 @@ Sindh Madressatul Islam University | *Expected 2026*
 
 ## 🌐 Languages
 
-- English (Professional)
-- Urdu (Native)
+- English 
+- Urdu 
 
 ---
 
